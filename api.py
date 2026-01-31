@@ -644,3 +644,4 @@ def eliminar_pagamento(pagamento_id: uuid.UUID):
         return {"mensagem": "Pagamento eliminado com sucesso"}
 
 
+# end of file api.py
